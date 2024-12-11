@@ -1,0 +1,4 @@
+1,thesandu,thesandu23@gmail.com,password23
+2,Deemantha,deemantha18@gmail.com,password05
+3,thilini,thili05@gmail.com,password05
+4,Amaya,oshii15@gmail.com,passwordoshii
